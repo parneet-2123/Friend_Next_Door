@@ -14,7 +14,7 @@ export const About = () => {
         life's challenges with strength and resilience. Join us on this journey
         towards a brighter and healthier tomorrow, one AI friend at a time.
         Together, let's foster a more compassionate society. FriendNextDoor -
-        your friendly space for understanding and support.
+        your friendly space for understanding and support  ~insiderlyc_
       </p>
       <section id="faq-section">
         <FaqSection />
