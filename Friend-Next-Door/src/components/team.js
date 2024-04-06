@@ -10,7 +10,7 @@ import React from "react";
 export const Team = () => {
 
   const handleMailAditi = () => {
-    const predefinedEmail = 'aditigaikwad003@gmail.com';
+    const predefinedEmail = 'parneet2123@gmail.com';
     const composeUrl = `https://mail.google.com/mail/?view=cm&fs=1&to=${encodeURIComponent(predefinedEmail)}`;
     window.open(composeUrl);
   };
@@ -52,10 +52,10 @@ export const Team = () => {
                 <p>Tech Enthusiast</p>
               </div>
               <div className="social-icon">
-                <a href="https://www.linkedin.com/in/aditig06/" target="_blank">
+                <a href="https://www.linkedin.com/in/parneet-singh-046276225/" target="_blank">
                   <img src={navIcon1} alt="Icon" />
                 </a>
-                <a href="https://github.com/uyaditi" target="_blank">
+                <a href="https://github.com/parneet-2123" target="_blank">
                   <img src={navIcon2} alt="Icon" />
                 </a>
                 <a href="#">
