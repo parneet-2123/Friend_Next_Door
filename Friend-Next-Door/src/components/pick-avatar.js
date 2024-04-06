@@ -18,7 +18,7 @@ const Pick = () => {
       <div className="all-avatar">
         <div className="avatar-iii">
           <a
-            href="http://localhost:8000/doctorAvatar"
+            href="http://fnd-avatar.vercel.app/doctorAvatar"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -31,7 +31,7 @@ const Pick = () => {
         </div>
         <div className="avatar-iii">
           <a
-            href="http://localhost:8000/boyAvatar"
+            href="http://fnd-avatar.vercel.app/boyAvatar"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -44,7 +44,7 @@ const Pick = () => {
         </div>
         <div className="avatar-iii">
           <a
-            href="http://localhost:8000/girlAvatar"
+            href="http://fnd-avatar.vercel.app/girlAvatar"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -57,7 +57,7 @@ const Pick = () => {
         </div>
         <div className="avatar-iii">
           <a
-            href="http://localhost:8000/manAvatar"
+            href="http://fnd-avatar.vercel.app/manAvatar"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -70,7 +70,7 @@ const Pick = () => {
         </div>
         <div className="avatar-iii">
           <a
-            href="http://localhost:8000/grandmaAvatar"
+            href="http://fnd-avatar.vercel.app/grandmaAvatar"
             target="_blank"
             rel="noopener noreferrer"
           >
