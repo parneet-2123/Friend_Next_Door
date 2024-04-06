@@ -44,7 +44,7 @@ export default function FaqSection() {
                 <i className="fas fa-question-circle" style={{ color: "black" }}></i> Is my data private?
                 </Card.Title>
                 <Card.Text className="faq-card-answer">
-                   Yes. At FriendNextDoor we respect your privacy and safety. You're data remains only between you and your friend and is not shared for used for any other pupose!
+                   Yes. At Ai Therapist we respect your privacy and safety. You're data remains only between you and your friend and is not shared for used for any other pupose!
                 </Card.Text>
               </Card.Body>
             </Card>

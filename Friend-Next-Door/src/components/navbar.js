@@ -69,7 +69,7 @@ export const NavBar = () => {
     >
       <Container>
         <Navbar.Brand href="/">
-          <p>FriendNextDoor</p>
+          <p>Ai Therapist</p>
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="basic-navbar-nav"

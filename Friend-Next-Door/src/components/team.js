@@ -12,7 +12,7 @@ export const Team = () => {
     window.open(composeUrl);
   };
 
-  let message = `Meet the team behind FriendNextDoor.`;
+  let message = `Meet the team behind Ai Therapist.`;
   return (
     <section class="section-white">
       <div class="container">

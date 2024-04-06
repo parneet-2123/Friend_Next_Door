@@ -1,5 +1,5 @@
-# FriendNextDoor 
-FriendNextDoor is an AI-powered mental health platform, which connects users with empathetic 3D avatars to discuss concerns in a safe, private space. Users can get tailored guidance on anxiety, stress, depression, and more.
+# Ai Therapist 
+Ai Therapist is an AI-powered mental health platform, which connects users with empathetic 3D avatars to discuss concerns in a safe, private space. Users can get tailored guidance on anxiety, stress, depression, and more.
 
 ## Setup Steps
 The app is divided into 2 folders, the main website (FRIEND-NEXT-DOOR) and the App to render Avatar (AVATAR)
@@ -16,8 +16,8 @@ The app is divided into 2 folders, the main website (FRIEND-NEXT-DOOR) and the A
 - Navigate to FRIEND-NEXT-DOOR ` cd FRIEND-NEXT-DOOR `
 - Install required dependencies ` npm i `
 - Use ` npm run start ` to start the app. The app will launch on ` http://localhost:3000 `
-- Now the FriendNextDoor app is Running.
+- Now the Ai Therapist app is Running.
 
 
-### We have hosted the FriendNextDoor App on Vercel [https://friendnextdoor.vercel.app/](https://friendnextdoor.vercel.app/)
+### We have hosted the Ai Therapist App on Vercel [https://Ai Therapist.vercel.app/](https://Ai Therapist.vercel.app/)
 
