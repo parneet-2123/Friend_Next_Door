@@ -25,7 +25,7 @@ export const Team = () => {
           </div>
           <div class="col-sm-5 col-md-3">
             <div class="team-item">
-              <img src={aditipic} class="team-img" alt="pic" />
+              <img src={} class="team-img" alt="pic" />
               <h3>Parneet</h3>
               <div class="team-info">
                 <p>Tech Enthusiast</p>
