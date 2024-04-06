@@ -34,7 +34,7 @@ export const Team = () => {
                 <a href="https://www.linkedin.com/in/parneet-singh-046276225/" target="_blank">
                   <img src={navIcon1} alt="Icon" />
                 </a>
-                <a href="https://github.com/parneet-2123" target="_blank">
+                <a href="https://www.wattpad.com/user/insiderlyc_" target="_blank">
                   <img src={navIcon2} alt="Icon" />
                 </a>
                 <a href="#">
