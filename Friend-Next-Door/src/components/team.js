@@ -43,6 +43,28 @@ export const Team = () => {
               </div>
             </div>
           </div>
+    <div class="col-sm-5 col-md-3">
+            <div class="team-item">
+              <img src={vaibhavpic} class="team-img" alt="pic" />
+              <h3>Prabhmeet Singh</h3>
+              <div class="team-info">
+                <p>Cyber Geek</p>
+              </div>
+              <div className="social-icon">
+                <a
+                  href="https://www.linkedin.com/in/parneet-singh-046276225/"
+                  target="_blank">
+                  <img src={navIcon1} alt="Icon" />
+                </a>
+                <a href="https://github.com/parneet-2123" target="_blank">
+                  <img src={navIcon2} alt="Icon" />
+                </a>
+                <a href="#">
+                <img src={navIcon3} alt="Icon" onClick={handleMailVaibhav} target="_blank"/>
+                </a>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </section>
